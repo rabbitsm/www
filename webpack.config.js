@@ -26,7 +26,7 @@ const serverConfig = {
   entry: './src/server/index.js',
   target: 'node',
   output: {
-    path: path.resolve(__dirname, 'server'),
+    path: path.resolve(__dirname, 'build'),
     filename: 'main.js',
     libraryTarget: 'commonjs2'
   },
