@@ -1,0 +1,22 @@
+{
+  "name": "www",
+  "version": "0.0.1",
+  "description": "RabbitSM Website Source Code",
+  "main": "index.js",
+  "repository": "https://github.com/rabbitsm/www",
+  "author": "maddhruv <dhruvjainpenny@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "clean-node": "^1.0.0",
+    "webpack": "^4.12.0"
+  }
+}
